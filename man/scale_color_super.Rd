@@ -17,7 +17,7 @@ scale_color_super(
 
 \item{reverse}{Reverse palette}
 
-\item{pallette}{Palette to create color ramp from}
+\item{pallette}{Palette to create color ramp from. Options: main, cool, hot, mixed, grey}
 }
 \description{
 Scale color with SUPE_R
