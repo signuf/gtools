@@ -43,7 +43,7 @@ super_pal <- function(palette = "main", reverse = FALSE, ...) {
 
 #' Scale color with SUPE_R
 #'
-#' @param pallette Palette to create color ramp from
+#' @param pallette Palette to create color ramp from. Options: main, cool, hot, mixed, grey
 #' @param discrete Logical
 #' @param reverse Reverse palette
 #' @export
